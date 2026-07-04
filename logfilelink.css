@@ -1,0 +1,45 @@
+#first{
+    text-align: center;
+    border: 1px solid, black;
+    width: 20%;
+    height: 35vh;
+    margin-left: 40%;
+    margin-top: 10%;
+    border-radius: 10px;
+    background-color: white;
+   
+}
+#first button{
+    border-radius: 20px;
+    width: 35%;
+    padding: 10px;
+    
+}
+#second{
+    text-align: center;
+     border: 1px solid, black;
+    width: 20%;
+    height: 30vh;
+    margin-left: 40%;
+    margin-top: 10%;
+    border-radius: 10px;
+    background-color: white;
+
+}
+#second button{
+    border-radius: 20px;
+    width: 35%;
+    padding: 10px;
+    
+}
+#logout{
+    border-radius: 20px;
+    width: 10%;
+    padding: 10px;
+    
+}
+body{
+    background-image: url("https://img.freepik.com/premium-photo/minimalist-skincare-product-display-with-greenery-beige-background-beauty-wellness-concepts_1645-12836.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
